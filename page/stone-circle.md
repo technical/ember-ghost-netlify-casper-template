@@ -1,12 +1,12 @@
 ---
-title: Built with ❤️ by Stone Circle
+title: Built with ❤️ by Sicasa
 image: /images/built-by.jpg
 imageMeta:
   attribution:
   attributionLink:
 featured: true
-author: ghost
-date: Tue Jun 12 2018 17:50:55 GMT+0100 (IST)
+author: mark-lewis
+date: Sun Jan 20 2018 17:50:55 GMT+0000
 tags:
 ---
 
