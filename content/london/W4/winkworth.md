@@ -1,6 +1,6 @@
 ---
 title: Winkworth - Chiswick
-image: /images/team.jpg
+image: /images/banners-pics-only_0067_Chiswickv2.jpg
 imageMeta:
   attribution:
   attributionLink:
