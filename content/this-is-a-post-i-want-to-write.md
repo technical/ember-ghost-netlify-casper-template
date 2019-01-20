@@ -1,6 +1,6 @@
 ---
-title: This Is a Post I Want to Write
-image:
+title: Agent Page
+image: /images/team.jpg
 imageMeta:
   attribution:
   attributionLink:

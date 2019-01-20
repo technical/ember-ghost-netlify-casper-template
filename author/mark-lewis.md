@@ -1,7 +1,7 @@
 ---
-name: Your Name
-id: your-name
-image:
+name: Mark Lewis
+id: mark-lewis
+image: /images/ghost-icon.png
 cover:
 website:
 twitter:
